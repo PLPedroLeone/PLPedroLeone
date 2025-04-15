@@ -13,3 +13,30 @@ I consider that my background in a science career brought me a critical way of t
 These skills, coupled with my experience in customer service and sales, allow me to bring organizations a comprehensive understanding of user experience, business needs, and production processes.
 
 I bring to the table not only the ability to write clean and efficient code, but also the mindset to solve real-world problems, communicate effectively across teams, adapt quickly to change, and stay focused on delivering value. My goal is to contribute to projects where technology, creativity, and human understanding come together to create impactful solutions.
+
+
+## 🛠 Technologies and Frameworks:
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" height="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" height="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JS" height="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TS" height="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="GIT" height="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="NODE" height="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="NEST" height="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="REACT" height="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="POSTGRESQL" height="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" alt="INSOMNIA" height="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="POSTMAN" height="40" width="40"/>
+</p>
+
+## 📨 How to reach me:
+<p>
+  <a href="mailto:pedroleone95@gmail.com">
+    <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x_r5.png" alt="GMAIL" height="40" width="100" />
+  </a>
+  <a href="https://www.linkedin.com/in/pedro-leone/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LINKEDIN" height="40" width="40"/>
+  </a>
+</p>
+
