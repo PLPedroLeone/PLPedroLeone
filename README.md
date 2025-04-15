@@ -35,7 +35,7 @@ I bring to the table not only the ability to write clean and efficient code, but
   <a href="mailto:pedroleone95@gmail.com">
     <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x_r5.png" alt="GMAIL" height="40" width="100" />
   </a>
-  <a href="https://www.linkedin.com/in/pedro-leone/">
+  <a href="https://www.linkedin.com/in/pedro-leone/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LINKEDIN" height="40" width="40"/>
   </a>
 </p>
